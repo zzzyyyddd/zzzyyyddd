@@ -2,46 +2,45 @@
 
 ### Independent AI & Web3 Developer
 
-I build AI-powered applications, smart contracts, and practical developer tools, with a focus on turning complex technologies into working products.
+I design and build AI-powered applications, blockchain solutions, and practical developer tools.
 
-My work spans AI agents, blockchain infrastructure, decentralized finance, security automation, and data intelligence.
+My work focuses on solving real-world problems through AI engineering, smart contracts, automation, and data-driven systems.
 
-## 🚀 Featured Projects
+I enjoy turning complex technical challenges into functional, testable applications.
 
-| Project | What It Does | Focus |
-|---|---|---|
-| [ArcSLA](https://github.com/zzzyyyddd/arcsla) | Verifiable service settlement using USDC escrow, EIP-712 attestations, and on-chain refunds. | Solidity · Web3 |
-| [DecisionGraph AI](https://github.com/zzzyyyddd/decisiongraph-ai) | AI-powered dependency impact analysis using knowledge graphs. | AI · FalkorDB |
-| [MarketScout AI](https://github.com/zzzyyyddd/marketscout-ai) | Social competitor intelligence dashboard powered by Celo x402. | AI · Celo |
-| [RetailLaunch Lab](https://github.com/zzzyyyddd/retaillaunch-lab) | AI-powered virtual try-on and demand intelligence platform. | AI · Next.js |
-| [OpsClock](https://github.com/zzzyyyddd/opsclock) | Physical operations observability powered by Ring. | API Integration |
-| [VeilPay](https://github.com/zzzyyyddd/veilpay) | Privacy-preserving merchant payments powered by Zcash. | Privacy · Web3 |
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
 **Languages:** TypeScript · JavaScript · Solidity
 
-**Frontend & Backend:** Next.js · React · Node.js · Tailwind CSS
+**Development:** Next.js · React · Node.js · Tailwind CSS
 
-**AI & Data:** LLM APIs · AI Agents · FalkorDB · Supabase
+**AI & Data:** LLM APIs · AI Agents · Knowledge Graphs · Supabase
 
-**Blockchain:** EVM · Smart Contracts · DeFi · Zcash
+**Web3:** EVM · Smart Contracts · DeFi · Zcash
 
-**Developer Tools:** Git · GitHub Actions · Docker · Foundry · Vercel
+**Tools:** Git · GitHub Actions · Docker · Foundry · Vercel
 
-## 💡 What I Build
+## 🚀 What I Build
 
-- AI-powered applications and developer workflows
+- AI-powered applications and intelligent workflows
 - Smart contracts and decentralized applications
-- Security and verification tools
+- Developer tools, security, and verification systems
 - Data analytics and decision intelligence
-- Practical integrations between AI, Web3, and real-world systems
+- Integrations connecting AI, blockchain, and real-world services
 
-## 🤝 Let's Connect
+## 📂 Explore My Work
 
-I'm interested in AI engineering, Web3 development, open-source collaboration, and technically challenging projects.
+My repositories document projects developed across AI, Web3, and software engineering, including hackathon builds and technical experiments.
 
-**GitHub:** [github.com/zzzyyyddd](https://github.com/zzzyyyddd)
+**[Explore GitHub Repositories](https://github.com/zzzyyyddd?tab=repositories)**
+
+Selected projects are also highlighted in the pinned repositories below.
+
+## 🤝 Collaboration
+
+I'm open to collaborating on AI, Web3, open-source, and developer tooling projects.
+
+**[GitHub Profile](https://github.com/zzzyyyddd)**
 
 ---
 
